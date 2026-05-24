@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/masudkarimbd/masudkarimbd/blob/main/banner.png" width="900" height="280" alt="Masud Karim Banner"/>
+  <img src="[https://github.com/masudkarimbd/masudkarimbd/blob/main/banner.png](https://github.com/MasudKarimbd/MasudKarimbd/blob/main/banner.png.jpg)" width="900" height="280" alt="Masud Karim Banner"/>
   
   <h1>👋 হ্যালো, আমি মাসুদ করিম!</h1>
   
