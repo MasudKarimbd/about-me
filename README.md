@@ -46,7 +46,7 @@
 
 ### 📬 যোগাযোগ
 - **X:** [@masudkarimbd](https://x.com/masudkarimbd)
-- **Email:** তোমার ইমেইল এখানে দাও
+- **Email:** animatormasudkarim@gmail.com
 - সবসময় নতুন আইডিয়া ও কোলাবোরেশনের জন্য ওপেন!
 
 ---
